@@ -1,0 +1,398 @@
+[
+    {
+        "id": "autoayuda-01",
+        "titulo": "Los 7 habitos de las personas altamente efectiva",
+        "imagen": "./libro/autoayuda/autoayuda1.jpg",
+        "categoria": {
+            "nombre": "Autoayuda",
+            "id": "autoayuda"
+        },
+        "precio": 11800,
+        "descripcion": "7 hábitos para ser más proactivo y efectivo para tomar el control de tu vida",
+        "autor":"Stepehn R. Covey",
+        "calificacion": "4/5 estrellas"
+    },
+    {
+        "id": "autoayuda-02",
+        "titulo": "El monje que vendio su ferrari",
+        "imagen": "./libro/autoayuda/autoayuda2.png",
+        "categoria": {
+            "nombre": "Autoayuda",
+            "id": "autoayuda"
+        },
+        "precio": 12900,
+        "descripcion": "Un abogado de éxito encuentra la felicidad al aprender de los monjes del Himalaya.",
+        "autor":"Robin S. Sharma",
+        "calificacion": "4/5 estrellas"
+    },
+    {
+        "id": "autoayuda-03",
+        "titulo": "Ética para amador",
+        "imagen": "./libro/autoayuda/autoayuda3.jpg",
+        "categoria": {
+            "nombre": "Autoayuda",
+            "id": "autoayuda"
+        },
+        "precio": 33000,
+        "autor": "Fernando Savater",
+        "descripcion":"Un padre enseña a su hijo a vivir bien y tomar decisiones morales y eticas",
+        "calificacion": "4/5 estrellas"
+    },
+    {
+        "id": "autoayuda-04",
+        "titulo": "El hombre mediocre",
+        "imagen": "./libro/autoayuda/autoayuda4.jpg",
+        "categoria": {
+            "nombre": "Autoayuda",
+            "id": "autoayuda"
+        },
+        "precio": 14000,
+        "autor": "José Ingenieros",
+        "descripcion":"Un ensayo que sostiene que la mediocridad en el hombre es un peligro para la sociedad",
+        "calificacion": "3/5 estrellas"
+    },
+    {
+        "id": "autoayuda-05",
+        "titulo": "Juan salvador gaviota",
+        "imagen": "./libro/autoayuda/autoayuda5.jpg",
+        "categoria": {
+            "nombre": "Autoayuda",
+            "id": "autoayuda"
+        },
+        "autor": "Richard Bach",
+        "descripcion": "La historia de una gaviota que se atrevió a soñar.",
+        "precio": 33000,
+        "calificacion": "5/5 estrellas"
+        
+    },
+    {
+        "id": "ficcion-01",
+        "titulo": "Harry Potter y La camara secreta",
+        "imagen": "./libro/ficcion/ficcion1.webp",
+        "categoria": {
+            "nombre": "Ficcion",
+            "id": "ficcion"
+        },
+        "autor": "J.K Rowling",
+        "descripcion": "Harry Potter y sus amigos enfrentan al heredero de Slytherin.",
+        "precio": 30000,
+        "calificacion": "4/5 estrellas"
+    },
+    {
+        "id": "ficcion-02",
+        "titulo": "Wardraft",
+        "imagen": "./libro/ficcion/ficcion2.jpg",
+        "categoria": {
+            "nombre": "Ficcion",
+            "id": "ficcion"
+        },
+        "autor": "Marie Lu",
+        "descripcion":"¿Quién es el heroe y quién es el villano? El esperado desenlace de WARCROSS.",
+        "precio": 35000,
+        "calificacion": "4/5 estrellas"
+    },
+    {
+        "id": "ficcion-03",
+        "titulo": "Warcross",
+        "imagen": "./libro/ficcion/ficcion3.jpg",
+        "categoria": {
+            "nombre": "Ficcion",
+            "id": "ficcion"
+        },
+        "autor": "Marie Lu",
+        "descripcion":"Emika Chen debe salvar Warcross, un juego de realidad virtual, en la ciudad de Tokio",
+        "precio": 30000,
+        "calificacion": "4/5 estrellas"
+    },
+    {
+        "id": "ficcion-04",
+        "titulo": "La marca de Atenea",
+        "imagen": "./libro/ficcion/ficcion4.webp",
+        "categoria": {
+            "nombre": "Ficcion",
+            "id": "ficcion"
+        },
+        "autor": "Rick Riordan",
+        "descripcion":"Siete semidioses deben derrotar a Gaia para salvar el mundo",
+        "precio": 30000,
+        "calificacion": "4/5 estrellas"
+    },
+    {
+        "id": "ficcion-05",
+        "titulo": "El último héroe del Olimpo",
+        "imagen": "./libro/ficcion/ficcion5.webp",
+        "categoria": {
+            "nombre": "Ficcion",
+            "id": "ficcion"
+        },
+        "autor": "Rick Riordan",
+        "descripcion":"Percy Jackson lidera a los semidioses en la batalla contra Cronos.",
+        "precio": 50000,
+        "calificacion": "5/5 estrellas"
+    },
+    {
+        "id": "ficcion-06",
+        "titulo": "Amigo imaginario",
+        "imagen": "./libro/ficcion/ficcion6.jpg",
+        "categoria": {
+            "nombre": "Ficcion",
+            "id": "ficcion"
+        },
+        "autor": "Stephen Chbosky",
+        "descripcion":"Un niño crea un amigo imaginario que lo lleva a un mundo peligroso.",
+        "precio": 45000,
+        "calificacion": "4/5 estrellas"
+    },
+    {
+        "id": "ficcion-07",
+        "titulo": "La batalla del laberinto",
+        "imagen": "./libro/ficcion/ficcion7.jpeg",
+        "categoria": {
+            "nombre": "Ficcion",
+            "id": "ficcion"
+        },
+        "autor": "Rick Riordan",
+        "descripcion":"Percy y sus amigos exploran el laberinto de Dédalo para detener a Cronos.",
+        "precio": 45000,
+        "calificacion": "4/5 estrellas"
+    },
+    {
+        "id": "ficcion-08",
+        "titulo": "Drácula",
+        "imagen": "./libro/ficcion/ficcion8.webp",
+        "categoria": {
+            "nombre": "Ficcion",
+            "id": "ficcion"
+        },
+        "autor": "Bram Stoker",
+        "descripcion":"Drácula, un vampiro, viaja a Inglaterra en busca de sangre fresca.",
+        "precio": 40000,
+        "calificacion": "4/5 estrellas"
+    },
+    {
+        "id": "clasico-01",
+        "titulo": "La metamorfosis",
+        "imagen": "./libro/clasico/clasico1.jpg",
+        "categoria": {
+            "nombre": "Clasico",
+            "id": "clasico"
+        },
+        "autor": "Franz Kafka",
+        "descripcion": "Un hombre se convierte en un insecto y su familia lo rechaza",
+        "precio": 30000,
+        "calificacion": "4/5 estrellas"
+    },
+    {
+        "id": "clasico-02",
+        "titulo": "La íliada",
+        "imagen": "./libro/clasico/clasico2.jpg",
+        "categoria": {
+            "nombre": "Clasico",
+            "id": "clasico"
+        },
+        "autor": "Homero",
+        "descripcion": "Aquiles,se retira de la batalla tras una disputa con su rey.",
+        "precio": 10000,
+        "calificacion": "3/5 estrellas"
+    },
+    {
+        "id": "clasico-03",
+        "titulo": "Romeo y Julieta",
+        "imagen": "./libro/clasico/clasico3.jpg",
+        "categoria": {
+            "nombre": "Clasico",
+            "id": "clasico"
+        },
+        "autor": "William Shakespeare",
+        "descripcion": "Amor prohibido entre dos familias enemistadas.",
+        "precio": 20000,
+        "calificacion": "5/5 estrellas"
+    },
+    {
+        "id": "clasico-04",
+        "titulo": "La Odisea",
+        "imagen": "./libro/clasico/clasico4.jpg",
+        "categoria": {
+            "nombre": "Clasico",
+            "id": "clasico"
+        },
+        "autor": "Homero",
+        "descripcion": "Un viaje épico de un héroe griego que regresa a casa despues de la Guerra de Troya.",
+        "precio": 40000,
+        "calificacion": "4/5 estrellas"
+    },
+    {
+        "id": "clasico-05",
+        "titulo": "Orgullo y prejuicio",
+        "imagen": "./libro/clasico/clasico5.webp",
+        "categoria": {
+            "nombre": "Clasico",
+            "id": "clasico"
+        },
+        "autor": "Jane Austen",
+        "descripcion": "Elizabeth y Darcy, dos jovenes orgullosos y prejuiciosos, se enamoran a pesar de todo.",
+        "precio": 10000,
+        "calificacion": "4/5 estrellas"
+    },
+    {
+        "id": "infantil-01",
+        "titulo": "El principito",
+        "imagen": "./libro/infantil/infantil1.webp",
+        "categoria": {
+            "nombre": "Infantil",
+            "id": "infantil"
+        },
+        "autor": "Antoine de Saint-Exupéry",
+        "descripcion":"Un aviador aprende del principito a ver el mundo con amor",
+        "precio": 35000,
+        "calificacion": "5/5 estrellas"
+    },
+    {
+        "id": "infantil-02",
+        "titulo": "Clemencia, la vaca que quería ser blanca",
+        "imagen": "./libro/infantil/infantil2.png",
+        "categoria": {
+            "nombre": "Infantil",
+            "id": "infantil"
+        },
+        "autor": "Verónica Linares",
+        "descripcion":"Clemencia, una vaca negra con manchas blancas que aprendió a aceptarse a sí misma.",
+        "precio": 29990,
+        "calificacion": "4/5 estrellas"
+    },
+    {
+        "id": "infantil-03",
+        "titulo": "El maestro Ciruela",
+        "imagen": "./libro/infantil/infantil3.webp",
+        "categoria": {
+            "nombre": "Infantil",
+            "id": "infantil"
+        },
+        "autor": "Fernando Almena",
+        "descripcion":"El maestro ciruela era un hombre bueno que enseñaba a los niños a ser felices.",
+        "precio": 29990,
+        "calificacion": "4/5 estrellas"
+    },
+    {
+        "id": "infantil-04",
+        "titulo": "Cuentos de los hermanos Grimm",
+        "imagen": "./libro/infantil/infantil4.jpeg",
+        "categoria": {
+            "nombre": "Infantil",
+            "id": "infantil"
+        },
+        "autor": "Jacob y Wilhelm Grimm",
+        "descripcion":"Historias populares que tratan temas universales y están llenos de aventuras y emoción.",
+        "precio": 20000,
+        "calificacion": "4.5/5 estrellas"
+    },
+    {
+        "id": "infantil-05",
+        "titulo": "Rapunzel",
+        "imagen": "./libro/infantil/infantil5.webp",
+        "categoria": {
+            "nombre": "Infantil",
+            "id": "infantil"
+        },
+        "autor": "Jacob y Wilhelm Grimm",
+        "descripcion":"Cuenta la historia de una joven que es secuestrada por una bruja y encerrada en una torre.",
+        "precio": 20000,
+        "calificacion": "4.5/5 estrellas"
+    },
+    {
+        "id": "infantil-06",
+        "titulo": "Hansel y Gretel",
+        "imagen": "./libro/infantil/infantil6.webp",
+        "categoria": {
+            "nombre": "Infantil",
+            "id": "infantil"
+        },
+        "autor": "Jacob y Wilhelm Grimm",
+        "descripcion":"Cuenta la historia sobre dos hermanos que luchan por su supervivencia.",
+        "precio": 22000,
+        "calificacion": "4.4/5 estrellas"
+    },
+    {
+        "id": "infantil-07",
+        "titulo": "La Cenicienta",
+        "imagen": "./libro/infantil/infantil7.jpg",
+        "categoria": {
+            "nombre": "Infantil",
+            "id": "infantil"
+        },
+        "autor": "Charles Perraut",
+        "descripcion":"Una joven es maltratada por su madrastra y sus hermanastras.",
+        "precio": 15000,
+        "calificacion": "5/5 estrellas"
+    },
+    {
+        
+        "id": "academico-01",
+        "titulo": "Álgebra de Baldor",
+        "imagen": "./libro/academico/academico1.webp",
+        "categoria": {
+            "nombre": "Academico",
+            "id": "academico"
+        },
+        "autor": "Aurelio Baldor.",
+        "descripcion":"Libro de texto de álgebra completo y riguroso para estudiantes de todos los niveles.",
+        "precio": 20000,
+        "calificacion": "4/5 estrellas"
+    },
+    {
+        
+        "id": "academico-02",
+        "titulo": "Revistas de National Geographic",
+        "imagen": "./libro/academico/academico2.webp",
+        "categoria": {
+            "nombre": "Academico",
+            "id": "academico"
+        },
+        "autor": "National Geographic",
+        "descripcion":"Es una fuente valiosa de información sobre el mundo natural y la cultura.",
+        "precio": 25000,
+        "calificacion": "4/5 estrellas"
+    },
+    {
+        
+        "id": "academico-03",
+        "titulo": "Enciclopedia Ciencias Filosóficas",
+        "imagen": "./libro/academico/academico3.webp",
+        "categoria": {
+            "nombre": "Academico",
+            "id": "academico"
+        },
+        "autor": "Georg Wilhelm Friedrich Hegel",
+        "descripcion":"Es una exposición sistemática de la filosofía hegeliana en su totalidad.",
+        "precio": 32000,
+        "calificacion": "5/5 estrellas"
+    },
+    {
+        
+        "id": "academico-04",
+        "titulo": "Enciclopedia Espasa",
+        "imagen": "./libro/academico/academico4.webp",
+        "categoria": {
+            "nombre": "Academico",
+            "id": "academico"
+        },
+        "autor": "Grupo Endesa",
+        "descripcion":"Es una obra que reúne breves artículos sobre diversos temas, organizados en orden alfabético.",
+        "precio": 80000,
+        "calificacion": "4/5 estrellas"
+    },
+    {
+        
+        "id": "academico-05",
+        "titulo": "Gramática del uso del español",
+        "imagen": "./libro/academico/academico5.webp",
+        "categoria": {
+            "nombre": "Academico",
+            "id": "academico"
+        },
+        "autor": "Luis Aragonés y Ramón Palencia ",
+        "descripcion":"Aprende la gramática española de forma clara y concisa.",
+        "precio": 54900,
+        "calificacion": "5/5 estrellas"
+    }
+]
